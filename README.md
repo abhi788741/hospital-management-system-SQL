@@ -4,13 +4,13 @@ This project focuses on building end-to-end hospital management analysis system 
 The system is created using MySQL and demonstrates a variety of SQL skills including creating tables, inserting or importing values and defining relationships between tables and business-focused SQL analysis.
 
 # Database Schema -
+Each tables is related to each other with foreign keys to create relationship between data.
 The Database consists of following tables:
 1. Doctors
 2. Patients
 3. Appointments
 4. Billing
 5. Treatments
-Each tables is related to each other with foreign keys to create relationship between data.
 
 # Tools Used -
 SQL (MySQL)
