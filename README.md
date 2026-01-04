@@ -28,8 +28,12 @@ SQL (MySQL)
 This system can be used in hospital management operations including doctors, patients, treatments, appointments, and billing records information.
 Ex. We can check overall revenue by hospitals.
 
-# Code -
+# How to Run -
 1. Execute database_schema.sql file for creating the tables.
 2. Load CSV data into tables or insert manually.
 3. Run the data_cleaning.sql file to handle inconsistent data.
 4. Run the queries in data_analysis.sql file for business focused analysis.
+
+# Future Improvements -
+The current system is basic implementation to demonstrate my skills and can be further improved. 
+Improvements can be adding more tables or adding more complex queries.
